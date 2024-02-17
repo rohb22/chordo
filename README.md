@@ -1,0 +1,1 @@
+Chordo is a web app that let's you generate random chord progressions with just a click
